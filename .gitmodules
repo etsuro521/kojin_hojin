@@ -1,6 +1,6 @@
 [submodule "api"]
  path = api
- url = ./api
+ url = https://github.com/etsuro521/kojin_hojin_api.git
 [submodule "front"]
  path = front
- url = ./front
+ url = https://github.com/etsuro521/kojin_hojin_front.git
